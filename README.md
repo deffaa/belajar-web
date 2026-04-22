@@ -1,8 +1,3 @@
-Berikut adalah draf deskripsi untuk file README.md berdasarkan tampilan halaman web yang kamu unggah. Deskripsi ini menggunakan format Markdown standar yang rapi agar terlihat profesional di repositori seperti GitHub.
-
-Latihan Struktur HTML dan Form Dasar
-Repositori ini berisi proyek web statis sederhana yang mendemonstrasikan penggunaan elemen-elemen fundamental HTML, mulai dari hierarki judul (headings), penyisipan media, hingga elemen formulir input.
-
 Fitur Utama
 Halaman web ini mencakup komponen-komponen berikut:
 
