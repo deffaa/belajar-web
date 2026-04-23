@@ -24,3 +24,6 @@ Struktur File
 praktikum.html: File utama yang berisi kode sumber HTML.
 
 (Opsional) style.css: Jika terdapat pengaturan warna (seperti teks merah pada Heading 1).
+
+# web dasar
+![hasil](hasil.png)
